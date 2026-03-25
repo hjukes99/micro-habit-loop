@@ -1,0 +1,22 @@
+{
+  "name": "micro-habit-loop",
+  "version": "0.1.0",
+  "description": "Tiny daily habit tracker with streak logic",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "test": "npm run build && node dist/smoke-test.js"
+  },
+  "keywords": [
+    "habit",
+    "streak",
+    "typescript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.2"
+  }
+}
