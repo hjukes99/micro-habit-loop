@@ -1,0 +1,12 @@
+{
+  "app": "micro-habit-loop",
+  "repo": "hjukes99/micro-habit-loop",
+  "sessions": [
+    {
+      "id": "7204182601403673153",
+      "createdAt": "2026-03-25T08:10:00Z",
+      "task": "Codex Lab: Micro Habit Loop — implement the top 3 TODO items from TODO.md.",
+      "status": "Planning"
+    }
+  ]
+}
